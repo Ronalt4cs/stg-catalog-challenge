@@ -101,7 +101,7 @@ npm run lint     # Executa linting do código
 
 ## 🔗 Links Funcionais
 
-### Deploy: https://stg-catalog-challenge.vercel.app/
+### Deploy: https://stg-catalog-challenge-five.vercel.app/
 
 ### **Páginas Principais**
 - 🏠 **Home**: `/` - Página inicial com apresentação
